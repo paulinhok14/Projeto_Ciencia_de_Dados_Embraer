@@ -41,6 +41,6 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
 - Matplotlib
 - Seaborn
 - SciPy
-
-## Video Presentation
-For a detailed walkthrough of the analysis and findings, check out our [presentation video](link_para_video_apresentaçao)
+- Scikit-Learn
+- MLFlow
+- Statistical Method
