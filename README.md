@@ -35,7 +35,7 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
 - Player rankings
 - Map-specific statistics
 
-## Requirements
+## Stack
 - Python 3.10
 - Pandas
 - Matplotlib
