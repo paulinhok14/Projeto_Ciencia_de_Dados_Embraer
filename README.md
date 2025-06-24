@@ -16,8 +16,10 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
    - Maps like de_overpass and de_cache show stronger correlation (~66.67%) between grenade damage and victory
    - Analysis includes heat maps of grenade landing positions for strategic insights
 
-![Overpass Analysis](de_overpass.png)
-![Cache Analysis](de_cbble.png)
+<p align="center">
+  <img src="de_overpass.png" width="400" alt="Overpass Analysis" style="margin-right: 10px;"/>
+  <img src="de_cbble.png" width="400" alt="Cache Analysis"/>
+</p>
 
 ## Methodology
 - Data analysis using Python (Pandas, Matplotlib, Seaborn)
@@ -41,4 +43,4 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
 - SciPy
 
 ## Video Presentation
-For a detailed walkthrough of the analysis and findings, check out our [presentation video](link_para_video_apresentaçao).
+For a detailed walkthrough of the analysis and findings, check out our [presentation video](link_para_video_apresentaçao)
