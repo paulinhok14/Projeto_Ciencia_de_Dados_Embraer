@@ -1,13 +1,16 @@
 # CS:GO Grenade Usage Analysis
 
+![CSGO Banner](csgo.png)
+
 ## Overview
-This project analyzes the impact of grenade usage in Counter-Strike: Global Offensive (CS:GO) matches, focusing on the relationship between grenade damage and match outcomes across different maps.
+This project analyzes the impact of grenade usage in Counter-Strike: Global Offensive (CS:GO) matches, focusing on the relationship between grenade damage and match outcomes/players rank across different maps.
 
 ## Key Findings
 
 1. **Grenade Damage and Match Victory**
-   - Statistical analysis with 90% confidence level shows that teams dealing more grenade damage tend to win matches
-   - The correlation varies significantly across different maps
+   - Statistical analysis with 90% confidence level shows that teams dealing more grenade damage tend to win matches.
+   - The correlation varies significantly across different maps.
+   - This relationship is not focused on causality analysis (Higher Damage > Wins or Wins > Higher Damage).
 
 2. **Map-Specific Analysis**
    - Maps like de_overpass and de_cache show stronger correlation (~66.67%) between grenade damage and victory
@@ -31,7 +34,7 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
 - Map-specific statistics
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Pandas
 - Matplotlib
 - Seaborn
@@ -39,6 +42,3 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
 
 ## Video Presentation
 For a detailed walkthrough of the analysis and findings, check out our [presentation video](link_para_video_apresentaçao).
-
-## License
-This project is part of a data science assessment. All rights reserved.
