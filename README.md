@@ -43,4 +43,4 @@ This project analyzes the impact of grenade usage in Counter-Strike: Global Offe
 - SciPy
 - Scikit-Learn
 - MLFlow
-- Statistical Method
+- Statistical Methods
